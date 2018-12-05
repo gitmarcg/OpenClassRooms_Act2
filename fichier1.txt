@@ -4,3 +4,5 @@ Création du 1 fichier original
 
 Merci
 
+modification exemple code pour connection BD
+
